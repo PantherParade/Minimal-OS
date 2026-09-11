@@ -35,8 +35,6 @@ Currently supported:
 - iPod Video (5 + 5.5 Generation)
 - iPod classic (6 + 7 Generation)
 
-Additional models may be supported in the future.
-
 ## Download
 
 Download the latest public beta from **Releases**.
@@ -53,7 +51,7 @@ If you find a bug or have an idea that fits the project's focus, open an
 Issue or reach out to me.
 
 The goal isn't to recreate every feature available in Rockbox. Minimal OS
-is intentionally opinionated and will remain focused on a simple,
+is intentionally well, minimal and will remain focused on a simple,
 music-first iPod experience.
 
 ## Rockbox
