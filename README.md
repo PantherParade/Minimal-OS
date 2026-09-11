@@ -32,8 +32,8 @@ Back up your existing Rockbox installation before installing.
 
 Currently supported:
 
-- iPod Video (5th Generation)
-- iPod Video (5.5th Generation)
+- iPod Video (5 + 5.5 Generation)
+- iPod classic (6 + 7 Generation)
 
 Additional models may be supported in the future.
 
