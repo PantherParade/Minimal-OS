@@ -41,7 +41,7 @@ Download the latest public beta from **Releases**.
 
 ## Installation
 
-Installation instructions coming soon.
+Installation instructions are included with each download.
 
 ## Feedback
 
