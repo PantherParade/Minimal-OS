@@ -54,6 +54,12 @@ The goal isn't to recreate every feature available in Rockbox. Minimal OS
 is intentionally well, minimal and will remain focused on a simple,
 music-first iPod experience.
 
+## Development
+
+Minimal OS was developed with the assistance of AI coding tools and then extensively reviewed, tested, debugged, and refined through repeated real-world use on supported iPod hardware.
+
+It remains beta software, so bugs may still be present.
+
 ## Rockbox
 
 Minimal OS is built on Rockbox and would not exist without the work of
