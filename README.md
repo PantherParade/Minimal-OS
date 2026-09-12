@@ -51,12 +51,12 @@ If you find a bug or have an idea that fits the project's focus, open an
 Issue or reach out to me.
 
 The goal isn't to recreate every feature available in Rockbox. Minimal OS
-is intentionally well, minimal and will remain focused on a simple,
+is intentionally, well, minimal and will remain focused on a simple,
 music-first iPod experience.
 
 ## Development
 
-Minimal OS was developed with the assistance of AI coding tools and extensively reviewed, tested, debugged, and refined through repeated real-world use on supported iPod hardware.
+Minimal OS was developed with the assistance of AI coding tools, reviewed, and refined through repeated real-world use on supported iPod hardware.
 
 ## Rockbox
 
