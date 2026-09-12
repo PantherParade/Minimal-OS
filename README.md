@@ -56,9 +56,7 @@ music-first iPod experience.
 
 ## Development
 
-Minimal OS was developed with the assistance of AI coding tools and then extensively reviewed, tested, debugged, and refined through repeated real-world use on supported iPod hardware.
-
-It remains beta software, so bugs may still be present.
+Minimal OS was developed with the assistance of AI coding tools and extensively reviewed, tested, debugged, and refined through repeated real-world use on supported iPod hardware.
 
 ## Rockbox
 
